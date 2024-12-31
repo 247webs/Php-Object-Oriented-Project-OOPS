@@ -16,9 +16,4 @@
 
 1.  Inheritance    
 2.  Encapsulation    
-3.  Polymorphism    
-
-
- Find me on Facebook  : [ My Facebook profile link](https://www.facebook.com/morshed.riyad) \
- Find me on  Linkedin  : [My Linkedin profile  link](https://www.linkedin.com/in/monjur-morshed-riyadh-6aaba465/)  \
- Email me : riyadhahmed777@gmail.com
+3.  Polymorphism
